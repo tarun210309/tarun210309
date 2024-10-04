@@ -1,3 +1,6 @@
+![logo](https://github.com/tarun210309/tarun210309/blob/main/github%20profile%20background.png)
+
+
 <h1 align="center">Hi 👋, I'm TARUN KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
