@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm TARUN KUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from </h3>
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/et-V10zzizp8cArlR5zOwy-Rs-lrMecpRnk08B-3dj4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.jpeg">
 
